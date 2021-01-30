@@ -1,4 +1,4 @@
-# Modelo Preditivo do preco da gasolina Gasolina Comum
+# Modelo Preditivo do Preço da Gasolina Gasolina Comum no Amapá
 
 ## Introdução
 
