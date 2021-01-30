@@ -1,16 +1,22 @@
 # Modelo Preditivo do preco da gasolina Gasolina Comum
 
-## Sobre
+## Introdução
+
+O aumento no preço do combustível influencia diretamente no preço de todos os produtos e serviços, haja vista que contribui com o
+aumento do custo de transporte da matéria prima para produção e suporte de serviços. Isso tudo, causa o reajuste no custo de produção
+levando os empresários a subir o preço do produto final e por fim impactando em toda a sociedade.
+
+## Solução
 
 Este trabalho científico tem como proposta aplicação de um algoritmo estatístico de regresão linear, desenvolvido na linguagem de programação R
 para aprender com o histórico da base de dados da Agência Nacional de Petróleo, Gás Natural e Biocombustı́veis (ANP) e tem por
-finalidade predizer a probabilidade de preços futuros da gasolina comum no estado Amapá (YANMING, 2018).
+finalidade predizer a probabilidade de preços futuros da gasolina comum no estado Amapá.
 
 Na primeira etapa foi feito filtragem, limpeza e visualização das informações através de grafı́cos estatísticos onde são identificadas
 padrões para descobrir que técnica de machine learning ou modelo matemático que deve ser aplicado para realizar as predições
 
 Na segunda etapa foi feito o treino e teste de dados, onde foi particionado os dados em 70% para treino e 30% para testes, logo em
-seguida, na terceira etapa, foi aplicado o modelo matemático de regressão línear e não línear (JIAN, 2018).
+seguida, na terceira etapa, foi aplicado o modelo matemático de regressão línear e não línear.
 
 <p align="center">
   <img src="https://github.com/Douglas-cc/Modelo-Preditivo-Gasolina-Comum/blob/master/Captura%20de%20tela%20de%202021-01-30%2020-26-23.png"/>
