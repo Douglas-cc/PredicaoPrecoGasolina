@@ -6,6 +6,10 @@ O aumento no preço do combustível influencia diretamente no preço de todos os
 aumento do custo de transporte da matéria prima para produção e suporte de serviços. Isso tudo, causa o reajuste no custo de produção
 levando os empresários a subir o preço do produto final e por fim impactando em toda a sociedade.
 
+## Base de Dados
+
+Dados Atualizados no Kaggle: https://www.kaggle.com/matheusfreitag/gas-prices-in-brazil
+
 ## Solução
 
 Este trabalho científico tem como proposta aplicação de um algoritmo estatístico de regresão linear, desenvolvido na linguagem de programação R
