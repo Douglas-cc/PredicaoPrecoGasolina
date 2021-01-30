@@ -8,7 +8,7 @@ levando os empresários a subir o preço do produto final e por fim impactando e
 
 ## Base de Dados
 
-Dados Atualizados no Kaggle: https://www.kaggle.com/matheusfreitag/gas-prices-in-brazil
+Os dados estão disponiveis no Kaggle: https://www.kaggle.com/matheusfreitag/gas-prices-in-brazil
 
 ## Solução
 
