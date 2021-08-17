@@ -30,4 +30,4 @@ seguida, na terceira etapa, foi aplicado o modelo matemático de regressão lín
 
 Por fim, por ainda ser um trabalho científico em andamento, pretendemos fazer melhorias no algoritmo dentre elas: Fazer correlações entre
 os modelos línear e não línear, testes estatísticos, cruzamento com o preço do dólar e do barril do Petróleo e expandir para todas as regiões
-e estados brasileiros. E assim dar insights mais precisos para os governos aplicar políticas públicas para facilitar a vida das pessoas
+e estados brasileiros. E assim dar insights mais precisos para os governos aplicarem políticas públicas para facilitar a qualidade de vida das pessoas
